@@ -217,7 +217,7 @@ namespace Tetris2D.Pantallas
                 int nuevoNivel = _lineas / 10 + 1;
                 if (nuevoNivel > _nivel)
                 {
-                    _nivel = nuevoNivel
+                    _nivel = nuevoNivel;
                     Sonido.Reproducir(TonoJuego.Nivel);
                 }
                 else
