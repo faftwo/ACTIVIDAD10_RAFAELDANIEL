@@ -2,10 +2,10 @@
 
 Tetris ya realizado 
 
-#CONTROLES
+# CONTROLES
 
-< = izquierda
-> = derecha
-^ = hard drop
-espacio = rotar
-p = pausa
+#< = izquierda
+#> = derecha
+#^ = hard drop
+#espacio = rotar
+#p = pausa
